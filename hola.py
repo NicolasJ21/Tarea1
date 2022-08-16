@@ -5,8 +5,6 @@ lista = []
 lista2 = []
 c = 1
 
-#pedir el ingreso de un numero por pantalla y luego imprimirlo
-
 numero = int(input("Ingrese un numero\n"))
 os.system("cls")
 print("el numero ingresado es ", numero)
